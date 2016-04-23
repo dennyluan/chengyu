@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div#chengyu {
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 65px;
+  font-family: calibri, sans-serif;
+  text-align: center;
+  color: rgb(61, 60, 60);
+}
+
+div#first {
+  animation-delay: 0.15s;
+}
+div#second {
+  animation-delay: 0.42s;
+}
+div#third {
+  animation-delay: 0.69s;
+}
+div#fourth {
+  animation-delay: 0.9s;
+}
+
+div#pinyin {
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-style: italic;
+  font-family: georgia, serif;
+  text-align: center;
+  color: rgb(61, 60, 60);
+  padding-top: 50px;
+}
+
+div#meaning {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 18px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  color: #8F1626;
+}
+
+html, body, #quote {
+  width: 100%;
+  height: 100%;
+}
+
+div#quote {
+  display: table;
+}
+
+div#tr {
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  top:-25px;
+}
+
+div#bottom{
+position: absolute; bottom: 0; 
+  font-family: calibri;
+  color: rgb(61, 60, 60);
+}
+
