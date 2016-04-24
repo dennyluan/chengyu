@@ -3,7 +3,7 @@
 
   "name": "Chengyu",
   "description": "Displays a new Chengyu every day",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icons": {
     "16": "icon.png",
     "32": "icon.png",
