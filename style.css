@@ -4,7 +4,7 @@
 }
 
 div#chengyu {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
   font-size: 65px;
   font-family: calibri, sans-serif;
@@ -13,7 +13,7 @@ div#chengyu {
 }
 
 div#pinyin {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
   font-size: 20px;
   font-style: italic;
