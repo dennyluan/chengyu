@@ -12,19 +12,6 @@ div#chengyu {
   color: rgb(61, 60, 60);
 }
 
-div#first {
-  animation-delay: 0.15s;
-}
-div#second {
-  animation-delay: 0.42s;
-}
-div#third {
-  animation-delay: 0.69s;
-}
-div#fourth {
-  animation-delay: 0.9s;
-}
-
 div#pinyin {
   width: 1200px;
   margin: 0 auto;
